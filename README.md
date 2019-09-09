@@ -21,6 +21,10 @@ To make any changes to the actual application, please edit files in src/main/web
  <br />WEB-INF/mvc-dispatcher-servlet.xml: configuration file for the servlet
  <br />WEB-INF/web.xml: basic configurations
  <br />WEB-INF/index.jsp: starting page
+ 
+ 
+### Pages
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
 
 
 ## Build with
