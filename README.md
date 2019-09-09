@@ -25,6 +25,9 @@ To make any changes to the actual application, please edit files in src/main/web
  
 ### Pages
 ![EDIT](tyt/edit.PNG)
+![INDEX](tyt/index.PNG)
+![PRODUCT](tyt/product.PNG)
+![USERS](tyt/users.PNG)
 
 
 ## Build with
