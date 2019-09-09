@@ -273,24 +273,24 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\jchen\IdeaProjects\leoartifact\src\main\webapp" />
-      <recent name="C:\Users\jchen\IdeaProjects\leoartifact\src\main\resources" />
-      <recent name="C:\Users\jchen\IdeaProjects\leoartifact\src" />
-      <recent name="C:\Users\jchen\IdeaProjects\leoartifact\src\main" />
-      <recent name="C:\Users\jchen\IdeaProjects\leoartifact\src\main\webapp\static\html" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-    <key name="ImportMappingsDialog.RecentPackages">
-      <recent name="com.module.model" />
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\jchen\IdeaProjects\leoartifact\src\main\webapp\res\js" />
       <recent name="C:\Users\jchen\IdeaProjects\leoartifact\src\main\webapp\res\image" />
       <recent name="C:\Users\jchen\IdeaProjects\leoartifact\src\main\webapp\WEB-INF\pages\admin" />
+    </key>
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="com.module.model" />
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jchen\IdeaProjects\leoartifact\src\main\webapp" />
+      <recent name="C:\Users\jchen\IdeaProjects\leoartifact\src\main\resources" />
+      <recent name="C:\Users\jchen\IdeaProjects\leoartifact\src" />
+      <recent name="C:\Users\jchen\IdeaProjects\leoartifact\src\main" />
+      <recent name="C:\Users\jchen\IdeaProjects\leoartifact\src\main\webapp\static\html" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -696,12 +696,12 @@
       <workItem from="1561193112013" duration="14606000" />
       <workItem from="1561279356664" duration="6078000" />
       <workItem from="1567993094511" duration="1075000" />
-      <workItem from="1567994202055" duration="1362000" />
+      <workItem from="1567994202055" duration="1605000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105810000" />
+    <option name="totallyTimeSpent" value="106053000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
