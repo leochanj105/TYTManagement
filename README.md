@@ -16,17 +16,17 @@ To make any changes to the actual application, please edit files in src/main/web
 
 ### Repositories
 
-*webapp/res: static css, pngs and javascript files
-*WEB-INF/pages/* : web pages
-*WEB-INF/mvc-dispatcher-servlet.xml: configuration file for the servlet
-*WEB-INF/web.xml: basic configurations
-*WEB-INF/index.jsp: starting page
+ <br />webapp/res: static css, pngs and javascript files
+ <br />WEB-INF/pages/* : web pages
+ <br />WEB-INF/mvc-dispatcher-servlet.xml: configuration file for the servlet
+ <br />WEB-INF/web.xml: basic configurations
+ <br />WEB-INF/index.jsp: starting page
 
 ## Build with
 
-Maven - Dependency Management
-SpringMVC - Main app frame
-Hibernate - Data persistence tool
+ <br />Maven - Dependency Management
+ <br />SpringMVC - Main app frame
+ <br />Hibernate - Data persistence tool
 
 ## Authors
 
