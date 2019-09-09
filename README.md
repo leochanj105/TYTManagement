@@ -12,11 +12,11 @@ Download the files and load them into your IDE. Then edit the datebase connectio
 To make any changes to the actual application, please edit files in src/main/webapp.
 
 ### Repositories
-webapp/res: static css, pngs and javascript files
-WEB-INF/pages/* : web pages
-WEB-INF/mvc-dispatcher-servlet.xml: configuration file for the servlet
-WEB-INF/web.xml: basic configurations
-WEB-INF/index.jsp: starting page
+*webapp/res: static css, pngs and javascript files
+*WEB-INF/pages/* : web pages
+*WEB-INF/mvc-dispatcher-servlet.xml: configuration file for the servlet
+*WEB-INF/web.xml: basic configurations
+*WEB-INF/index.jsp: starting page
 
 ## Build with
 Maven - Dependency Management
