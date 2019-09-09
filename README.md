@@ -7,7 +7,7 @@ This web management system is build with springmvc & hibernate & maven.
 
 
 ### Pre-requieites
-To run this system, you need a tomcat server and a mysql / oracle server.  <br /> For developers, you need maven support for this app.
+To run this demo, you need a tomcat server and a mysql / oracle server.  <br /> For developers, you need maven support for this app.
 
 
 ### How to use
