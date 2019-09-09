@@ -6,7 +6,11 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="316b218c-cd47-4a36-94fe-96221e369b20" name="Default Changelist" comment="" />
+    <list default="true" id="316b218c-cd47-4a36-94fe-96221e369b20" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/leoartifact/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/leoartifact/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/leoartifact/WEB-INF/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/leoartifact/WEB-INF/classes/META-INF/persistence.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -90,8 +94,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/META-INF/persistence.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="374">
+              <caret line="22" column="85" lean-forward="true" selection-start-line="22" selection-start-column="85" selection-end-line="22" selection-end-column="85" />
             </state>
           </provider>
         </entry>
@@ -176,7 +180,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/module/test/Test.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/read.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/module/controller/BlogController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/META-INF/persistence.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/module/repository/UserRepository.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/module/repository/ProductRepository.java" />
@@ -199,6 +202,7 @@
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/updateUser.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/main.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/module/controller/WebController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/META-INF/persistence.xml" />
       </list>
     </option>
   </component>
@@ -696,12 +700,12 @@
       <workItem from="1561193112013" duration="14606000" />
       <workItem from="1561279356664" duration="6078000" />
       <workItem from="1567993094511" duration="1075000" />
-      <workItem from="1567994202055" duration="1605000" />
+      <workItem from="1567994202055" duration="2323000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106053000" />
+    <option name="totallyTimeSpent" value="106771000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -714,6 +718,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Persistence" order="0" sideWeight="0.2863158" side_tool="true" visible="true" weight="0.30268458" />
       <window_info content_ui="combo" id="Project" order="1" sideWeight="0.7136842" visible="true" weight="0.30268458" />
@@ -1022,8 +1027,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/META-INF/persistence.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="374">
+          <caret line="22" column="85" lean-forward="true" selection-start-line="22" selection-start-column="85" selection-end-line="22" selection-end-column="85" />
         </state>
       </provider>
     </entry>
