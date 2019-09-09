@@ -43,6 +43,6 @@ This project is for demonstrative purpose only. Any replication of it should be 
 All files, images, style sheets are created either by the authors or from free / opensourced materials on the internet.  <br />
 
 
-## Disclaimer
+## Acknowledgement
 This project is only a demo. TYT Entertainment is the company who owns the full version of this application.  <br />To view the full version, please contact TYT Entertainment.
 
