@@ -24,7 +24,7 @@ To make any changes to the actual application, please edit files in src/main/web
  
  
 ### Pages
-![Alt text](TYTManagement/tyt/edit.PNG)
+![EDIT](tyt/edit.PNG)
 
 
 ## Build with
