@@ -28,14 +28,14 @@ To make any changes to the actual application, please edit files in src/main/web
 ![USERS](tyt/users.PNG)
 ![EDIT](tyt/edit.PNG)
 ![PRODUCT](tyt/product.PNG)
-## Build with
+## Built with
  <br />Maven - Dependency Management
  <br />SpringMVC - Main app frame
  <br />Hibernate - Data persistence tool
 
 
 ## Authors
-Leo (Jingyuan Chen) - Student at UNC-Chapel Hill, USA
+Leo Chan - Student at UNC-Chapel Hill, USA
 
 
 ## Disclaimer
