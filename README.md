@@ -24,7 +24,7 @@ To make any changes to the actual application, please edit files in src/main/web
  
  
 ### Pages
-![Alt text](https://github.com/leochanj105/TYTManagement/tree/master/tyt/edit.PNG?raw=true "Title")
+![Alt text](TYTManagement/tyt/edit.PNG)
 
 
 ## Build with
