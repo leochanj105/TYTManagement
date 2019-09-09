@@ -1,5 +1,5 @@
 # TYTManagement
-This is a demo of the product/user management system created for the jade enterprise TYT. 
+This is a demo of the product/user management system created for the jade enterprise TYT Entertainment. 
 
 ## Getting started
 This web management system is build with springmvc & hibernate & maven.
