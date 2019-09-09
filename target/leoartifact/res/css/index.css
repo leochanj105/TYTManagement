@@ -1,0 +1,14 @@
+body {
+    background: azure;
+}
+*{
+    padding: 0 auto;
+    margin: 10px;
+    text-align: center;
+}
+
+/*#mainbox{*/
+/*    background: red;*/
+/*    border: 1px solid darkred;*/
+/*    width: 400px;*/
+/*}*/
