@@ -39,7 +39,7 @@ Leo (Jingyuan Chen) - Student at UNC-Chapel Hill, USA
 
 
 ## Disclaimer
-This project is for demonstrative purpose only. Any use of this project should be restricted to non-commercial purposes only.  <br />
+This project is for demonstrative purpose only. Any replication of it should be restricted to non-commercial uses only.  <br />
 All files, images, style sheets are created either by the authors or from free / opensourced materials on the internet.  <br />
 This project is only a demo. TYT Entertainment is the company who owns the full version of this application.  <br />To view the full version of it, pleasecontact TYT Entertainment.
 
