@@ -1,4 +1,4 @@
-# TYTManagement
+# TYTManagement - a demo
 This is a <b>demo</b> of the product/user management system created for the jade enterprise TYT Entertainment. 
 
 
