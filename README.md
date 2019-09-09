@@ -1,5 +1,5 @@
 # TYTManagement
-This is a demo of the product/user management system created for the jade enterprise TYT Entertainment. 
+This is a ###demo of the product/user management system created for the jade enterprise TYT Entertainment. 
 
 
 ## Getting started
