@@ -28,7 +28,7 @@ To make any changes to the actual application, please edit files in src/main/web
 ![USERS](tyt/users.PNG)
 ![EDIT](tyt/edit.PNG)
 ![PRODUCT](tyt/product.PNG)
-![IMAGE](tyt/page.PNG)
+![IMAGE](tyt/page.png)
 ## Built with
  <br />Maven - Dependency Management
  <br />SpringMVC - Main app frame
